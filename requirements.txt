@@ -1,6 +1,6 @@
 backports.weakref==1.0rc1
 bleach==1.5.0
-certifi==2021.5.30
+certifi==2020.6.20
 click==8.0.1
 Flask==1.1.2
 h5py==2.9.0
