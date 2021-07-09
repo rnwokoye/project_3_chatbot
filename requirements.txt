@@ -1,0 +1,37 @@
+backports.weakref==1.0rc1
+bleach==1.5.0
+certifi==2021.5.30
+click @ file:///tmp/build/80754af9/click_1621604852318/work
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+h5py==2.9.0
+html5lib==0.9999999
+importlib-metadata @ file:///opt/concourse/worker/volumes/live/3027f664-46d5-41d9-789e-0b7d1ed46519/volume/importlib-metadata_1617877364314/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1624781299557/work
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+Keras==2.3.1
+Keras-Applications==1.0.8
+Keras-Preprocessing @ file:///home/conda/feedstock_root/build_artifacts/keras-preprocessing_1610713559828/work
+Mako @ file:///home/conda/feedstock_root/build_artifacts/mako_1610659158978/work
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1614595805172/work
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/16a820f0-3874-45b4-6b79-5313238ead21/volume/markupsafe_1621528157387/work
+mkl-service==2.3.0
+mock @ file:///Users/runner/miniforge3/conda-bld/mock_1610094587076/work
+nltk @ file:///tmp/build/80754af9/nltk_1621347441292/work
+numpy==1.14.2
+pandas==0.25.3
+protobuf==3.12.3
+pygpu==0.7.6
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+PyYAML==5.4.1
+regex @ file:///opt/concourse/worker/volumes/live/f0015145-4c6d-4a33-70ab-117b4cb0478c/volume/regex_1625610091426/work
+scipy==1.2.1
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tensorflow==1.3.0
+Theano==1.0.3
+tqdm @ file:///tmp/build/80754af9/tqdm_1625563689033/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1624965014186/work
+webencodings==0.5.1
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+zipp @ file:///tmp/build/80754af9/zipp_1625570634446/work
